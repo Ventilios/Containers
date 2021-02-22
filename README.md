@@ -7,3 +7,5 @@ Deployment will contain:
 3. Applying some defaults to the SQL Server initial deployment.
 4. Applying SQL Server specific configuration settings.
 6. Deploy Maintenance tasks. 
+
+Currently available deployments based on official Microsoft images: Redhat and Ubuntu.
