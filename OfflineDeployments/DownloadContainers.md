@@ -8,7 +8,7 @@ Pull the image into you local podman repository\
 
 Save the image from your local repo to a *.tar file\
 SYNTAX: sudo podman save -o <image-name>.tar <REPOSITORY>:<TAG>\
-`podman save -o SQL2019-CU9-rhel-8.tar mcr.microsoft.com/mssql/rhel/server:2019-CU9-rhel-8`
+`podman save -o SQL2019-CU9-rhel-8.tar mcr.microsoft.com/mssql/rhel/server:2019-CU9-rhel-8` \
 `file QL2019-CU9-rhel-8.tar`
 
 Transfer the file to another location (like your offline environment)
